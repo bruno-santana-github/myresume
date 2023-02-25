@@ -1,3 +1,3 @@
-# https://github.com/bruno-santana-github
+# https://bruno-santana-github.github.io/myresume/
 
     personal introduction page
